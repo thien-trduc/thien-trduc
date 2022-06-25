@@ -1,0 +1,23 @@
+{
+  "name": "thien",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thien-trduc/thien.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thien-trduc/thien/issues"
+  },
+  "homepage": "https://github.com/thien-trduc/thien#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
