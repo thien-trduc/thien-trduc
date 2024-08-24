@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thien-trduc](https://github.com/thien-trduc)
 
-- 📝 My team website: [https://sshop.live/](https://sshop.live/)
+- 📝 My team website: []()
 
 - 📫 How to reach me **tntran496@gmail.com**
 
