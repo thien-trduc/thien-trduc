@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Duc Thien</h1>
 <h3 align="center">A passionate Backend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on [PKH Company](medpro.vn)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **Javascript, TypeScript and NodeJS**
 
